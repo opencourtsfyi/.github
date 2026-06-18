@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome! OpenCourts is a volunteer-run public-interest project dedicted to making court data in North Carolina and South Carolina transparent, accessible and understandable.
+Welcome! OpenCourts is a volunteer-run public-interest project dedicated to making court data in North Carolina and South Carolina transparent, accessible and understandable.
 
 We support communities, journalists, researchers and advocates by providing reliable information from within the legal system in formats that are easy to consume.
 
